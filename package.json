@@ -1,0 +1,26 @@
+{
+  "name": "blog-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duong0206/nodejs_blog_duong.git"
+  },
+  "author": "duong duy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Duong0206/nodejs_blog_duong/issues"
+  },
+  "homepage": "https://github.com/Duong0206/nodejs_blog_duong#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
